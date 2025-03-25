@@ -17,7 +17,7 @@ export default function Home() {
               hi, i&apos;m dustin
             </h1>
             <p className="mt-4 text-neutral-300 max-w-lg">
-              i love code and tech stuffs. check out my <a href="portfolio.dustindev.tech">portfolio</a>.
+              i love code and tech stuffs. check out my <a href="http://portfolio.dustindev.tech">portfolio</a>.
             </p>
           </div>
 
