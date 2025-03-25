@@ -17,7 +17,12 @@ export default function Home() {
               hi, i&apos;m dustin
             </h1>
             <p className="mt-4 text-neutral-300 max-w-lg">
-              i love code and tech stuffs. check out my <a href="http://portfolio.dustindev.tech">portfolio</a>.
+              i love <a className="font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-600"
+               href="http://dustindev.tech">building</a> things and diving into cool tech. 
+              <br/>wanna see <a className="font-bold bg-clip-text text-transparent bg-gradient-to-r from-green-400 to-cyan-500"
+               href="http://portfolio.dustindev.tech">my portfolio </a> 
+               or ping me at this <a className="font-bold bg-clip-text text-transparent bg-gradient-to-r from-red-400 to-yellow-500"
+                href="mailto:dustin.dev@hotmail.com">email</a>.
             </p>
           </div>
 
